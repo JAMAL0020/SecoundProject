@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-04T16:03:30 EET" name="Default suite" finished-at="2025-01-04T16:03:32 EET" duration-ms="1494">
+    <groups>
+    </groups>
+    <test started-at="2025-01-04T16:03:30 EET" name="Default test" finished-at="2025-01-04T16:03:32 EET" duration-ms="1494">
+      <class name="Standard_User.MainTestCases">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:Standard_User.MainTestCases@5d9b7a8a]" started-at="2025-01-04T16:03:30 EET" name="MySetup" finished-at="2025-01-04T16:03:31 EET" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="Login()[pri:1, instance:Standard_User.MainTestCases@5d9b7a8a]" started-at="2025-01-04T16:03:31 EET" name="Login" finished-at="2025-01-04T16:03:31 EET" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddRandomItem()[pri:2, instance:Standard_User.MainTestCases@5d9b7a8a]" started-at="2025-01-04T16:03:31 EET" name="AddRandomItem" finished-at="2025-01-04T16:03:31 EET" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddRandomItem -->
+        <test-method signature="CheckoutProcess()[pri:4, instance:Standard_User.MainTestCases@5d9b7a8a]" started-at="2025-01-04T16:03:31 EET" name="CheckoutProcess" finished-at="2025-01-04T16:03:32 EET" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutProcess -->
+        <test-method is-config="true" signature="PostTesting()[pri:0, instance:Standard_User.MainTestCases@5d9b7a8a]" started-at="2025-01-04T16:03:32 EET" name="PostTesting" finished-at="2025-01-04T16:03:32 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTesting -->
+      </class> <!-- Standard_User.MainTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
