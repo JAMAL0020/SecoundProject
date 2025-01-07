@@ -11,7 +11,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class MainTestCases {
+public class MyTestCases {
 
 	WebDriver driver = new ChromeDriver();
 
@@ -159,6 +159,7 @@ public class MainTestCases {
 	@AfterTest
 
 	public void PostTesting() {
+		//GG
 
 	}
 
